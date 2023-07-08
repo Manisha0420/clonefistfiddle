@@ -1,0 +1,38 @@
+.a{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 1px;
+
+}
+.img{
+    width: 80%;
+}
+.b{
+    text-align: justify;
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+}
+.w{
+    background-image: url(../css/firstfiddle.css);
+    background-color: aqua;
+    width: 100%;
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+    margin-right: auto;
+    margin-left: auto;
+    background-size: cover;
+}
+@media(max-width:768px){
+    .img1{
+        width:100%
+    }
+}
+.ml-1{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
